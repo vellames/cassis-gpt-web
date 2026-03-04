@@ -16,7 +16,8 @@ export const MODELS: Model[] = [
   {
     id: "br",
     name: "CassisGPT-0.1-BR",
-    endpoint: "/api/chat/br",
+    endpoint:
+      "https://c-vellames--arandu-1-serve-pt-aranduserverpt-instruct.modal.run",
   },
 ];
 

@@ -246,8 +246,7 @@ export default function ChatPage() {
       });
       if (!response.ok) throw new Error("Request failed");
       const data = await response.json();
-      const content: string =
-        data.response ?? data.content ?? data.text ?? data.output ?? "";
+      const content: string = data.response ?? "";
       setMessages((prev) => [
         ...prev,
         { id: crypto.randomUUID(), role: "assistant", content },
