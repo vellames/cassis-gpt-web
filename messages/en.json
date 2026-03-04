@@ -1,0 +1,21 @@
+{
+  "chat": {
+    "placeholder": "Message CassisGPT...",
+    "send": "Send",
+    "newChat": "New chat",
+    "modelLabel": "Model",
+    "resetWarning": "Changing the model will reset the current conversation.",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "emptyTitle": "How can I help you today?",
+    "emptySubtitle": "Pick a model and start chatting.",
+    "you": "You",
+    "thinking": "Thinking...",
+    "errorMessage": "Something went wrong. Please try again.",
+    "disclaimer": "This is a studying project. None of the information provided by the models should be taken seriously.",
+    "models": {
+      "en": "CassisGPT-0.1-EN",
+      "br": "CassisGPT-0.1-BR"
+    }
+  }
+}

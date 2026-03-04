@@ -1,0 +1,21 @@
+{
+  "chat": {
+    "placeholder": "Mensagem para o CassisGPT...",
+    "send": "Enviar",
+    "newChat": "Nova conversa",
+    "modelLabel": "Modelo",
+    "resetWarning": "Trocar o modelo irá resetar a conversa atual.",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "emptyTitle": "Como posso te ajudar hoje?",
+    "emptySubtitle": "Escolha um modelo e comece a conversar.",
+    "you": "Você",
+    "thinking": "Pensando...",
+    "errorMessage": "Algo deu errado. Tente novamente.",
+    "disclaimer": "Este é um projeto de estudos. Nenhuma informação fornecida pelos modelos deve ser levada a sério.",
+    "models": {
+      "en": "CassisGPT-0.1-EN",
+      "br": "CassisGPT-0.1-BR"
+    }
+  }
+}
